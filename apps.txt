@@ -1,2 +1,6 @@
 game to code
+<<<<<<< HEAD
 code and game
+=======
+fav_movie
+>>>>>>> movies
